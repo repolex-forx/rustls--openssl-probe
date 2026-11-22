@@ -1,0 +1,11 @@
+{
+  "org": "rustls",
+  "repo": "openssl-probe",
+  "versions": [
+    {
+      "commit": "9181752ff5eab32339111dbdcc6cdc9f5a5eb06e",
+      "tag": "0.2.1",
+      "parsed_at": "2026-11-22T14:15:06.274448+00:00"
+    }
+  ]
+}
