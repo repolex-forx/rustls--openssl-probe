@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "rustls",
+  "repo": "openssl-probe",
+  "versions": [
+    {
+      "commit": "9181752ff5eab32339111dbdcc6cdc9f5a5eb06e",
+      "parsed_at": "2026-11-22T14:08:14.047743+00:00",
+      "tag": "0.2.1",
+      "filetree": "filetree/9181752ff5eab32339111dbdcc6cdc9f5a5eb06e.nq.gz",
+      "blobs": [
+        "blob/83b6baec6aa61ccd28bdd497e20ee5f441655762.nq.gz",
+        "blob/e7a5f5756e0274e9652b823c82d73b2fcdf4da55.nq.gz",
+        "blob/16fe87b06e802f094b3fbb0894b137bca2b16ef1.nq.gz",
+        "blob/9730df5fbfcb14a0d954914d442fd1e92398cf70.nq.gz",
+        "blob/a9d37c560c6ab8d4afbf47eda643e8c42e857716.nq.gz",
+        "blob/39e0ed6602151f235148e6c08413aa7eda5b9038.nq.gz",
+        "blob/0198966c4add904da8f042f32b858403553f2f6f.nq.gz",
+        "blob/3f6dd57ef3ae9fac4c60feda8bd6739ce083e6f9.nq.gz",
+        "blob/aa79cd5af8f2d8c5f7f497ffad949847495b537a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
